@@ -1,0 +1,22 @@
+{
+  "name": "@loveyunk/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier configuration",
+  "author": "loveyunk <mjjccc@126.com>",
+  "main": "index.json",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loveyunk/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loveyunk/prettier-config/issues"
+  },
+  "homepage": "https://github.com/loveyunk/prettier-config#readme"
+}
