@@ -12,7 +12,7 @@ npm install @loveyunk/prettier-config --save-dev
 
 package.json:
 
-```json
+```jsonc
 {
   // ...
   "prettier": "@loveyunk/prettier-config"
